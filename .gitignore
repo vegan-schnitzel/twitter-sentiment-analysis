@@ -1,0 +1,8 @@
+presentation/
+data/ENCASEH2020/
+data/full_tweets_all.csv
+data/full_tweets_geo.csv
+git-course-notes.md
+lemmatization-test.ipynb
+TwitterKeys.txt
+*.pdf
