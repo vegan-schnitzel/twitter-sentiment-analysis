@@ -264,4 +264,3 @@ dependencies:
     - tweepy==3.10.0
     - urllib3==1.25.8
     - werkzeug==1.0.0
-prefix: C:\Users\hotte\miniconda3\envs\machinelearning
