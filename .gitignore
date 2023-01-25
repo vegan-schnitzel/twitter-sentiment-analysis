@@ -1,8 +1,10 @@
-# Ignoring sensitive data
-presentation/
+# ignore sensitive data
 data/ENCASEH2020/
 data/full_tweets_all.csv
 data/full_tweets_geo.csv
-git-course-notes.md
 TwitterKeys.txt
-*.pdf
+
+# additional files / folders
+git-course-notes.md
+Introduction_FinalProject_inLecture.pdf
+presentation/
