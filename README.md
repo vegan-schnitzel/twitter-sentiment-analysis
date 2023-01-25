@@ -1,5 +1,5 @@
 # Twitter Sentiment Analysis
 
-In this project, a random forest classifier predicts hate speech on Twitter.
+In this university project, a random forest classifier is trained and later predicts the sentiment of tweets from the US. Ultimately, it is investigated whether predictions improve if tweet location is added as a feature.
 
-The .yml environment file defines which libraries have been used, it can be directly imported into anaconda. Note that Twitter policy prevents me from uploading some datasets and personal access tokens of Twitter API.
+The `env_machinelearning.yml` file defines which python libraries have been used in this analysis. It can be used to clone the environment in conda. Please note that Twitter policy forbids to upload unfiltered datasets. 
